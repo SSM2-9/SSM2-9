@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssm2-9&label=Profile%20views&color=0e75b6&style=flat" alt="ssm2-9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssm2-9" alt="ssm2-9" /></a> </p>
-
 - 💻 All of my projects are available at [https://sakina-portfolio-seven.vercel.app](https://sakina-portfolio-seven.vercel.app)
 
 - 📫 How to reach me **ssmsakina@gmail.com**
