@@ -22,11 +22,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;Learning: <br></br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py,js,sqlite,fastapi" /> </a> 
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssm2-9&show_icons=true&locale=en&layout=compact" alt="ssm2-9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssm2-9&show_icons=true&locale=en" alt="ssm2-9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssm2-9&" alt="ssm2-9" /></p>
 
 
