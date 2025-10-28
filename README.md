@@ -17,7 +17,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,firebase,js,vscode,materialui,nextjs,nodejs,py,sqlite,fastapi" /> </a> </p>
+<p align="left"><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,firebase,vscode,materialui,nextjs,nodejs" /> </a> </p>
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;Learning: <br></br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py,js,sqlite,fastapi" /> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssm2-9&show_icons=true&locale=en&layout=compact" alt="ssm2-9" /></p>
 
