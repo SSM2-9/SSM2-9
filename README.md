@@ -1,6 +1,6 @@
 <h3 align="center">An aspiring programmer and researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssm2-9&label=Profile%20views&color=0e75b6&style=flat" alt="ssm2-9" /> </p>
+
 
 - 💻 My portfolio [https://sakina-portfolio-seven.vercel.app](https://sakina-portfolio-seven.vercel.app)
 
