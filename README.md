@@ -4,7 +4,7 @@
 
 - 💻 My portfolio [https://sakina-portfolio-seven.vercel.app](https://sakina-portfolio-seven.vercel.app)
 
-- 📫 How to reach me **ssmsakina@gmail.com**
+- 📫 How to reach me **sakina.mohammed@mbzuai.ac.ae**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WO1C8OSE3GYAwrwHWAPemfgAvCZ1-QOg/view](https://drive.google.com/file/d/1WO1C8OSE3GYAwrwHWAPemfgAvCZ1-QOg/view)
 ---
